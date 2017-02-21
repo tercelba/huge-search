@@ -73,3 +73,7 @@ li:hover a>span {
 span {
 	    vertical-align: middle;
 }
+.zoom:hover {
+	
+	transform: scale(1.3);
+}
